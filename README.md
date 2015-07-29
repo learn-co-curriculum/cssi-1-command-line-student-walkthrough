@@ -1,9 +1,4 @@
----
-tags:
-level:
-languages:
-resources:
----
+
 
 # Command Line Student Walkthrough
 
