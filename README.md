@@ -48,4 +48,4 @@ Navigating your computer from the command line is a lot about muscle memory. It'
 * [Level Up - Command Line Tutorial](http://leveluptuts.com/tutorials/command-line-basics) 
 
 
-<a href='https://learn.co/lessons/cssi-1-command-line-student-walkthrough' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-1-command-line-student-walkthrough' title='Command Line Student Walkthrough'>Command Line Student Walkthrough</a> on Learn.co and start learning to code for free.</p>
